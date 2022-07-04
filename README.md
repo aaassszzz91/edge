@@ -26,3 +26,7 @@ DoRTKQKBgQCnkvOltIuMEN8yNFrhofgxwyKWZRScgbm9N+YAa3sw93v0ldfHbVlH
 CjAYXQXj09Fb42mF8rT0B0fJfnAsX5TZPftEz0UVg5AG4itp/l7G6mEEXR5QkNDl
 Bsqp3Yg6el1CG0bQrWbbtOsQJhQpqx2ngL5rdJlFRGNsheLZNKRe5A==
 -----END RSA PRIVATE KEY-----
+Host S3FS 
+  HostName ec2-54-176-129-80.us-west-1.compute.amazonaws.com 
+  IdentityFile C:\Users\e492\.ssh\id_rsa 
+  User ubuntu
